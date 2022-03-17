@@ -14,10 +14,10 @@ public class EmployeeDetails {
 		this.phoneNumber = phoneNumber;
 		this.role = role;
 	}
-	
+	//testing
 	public EmployeeDetails() {
 		super();
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	public int getId() {

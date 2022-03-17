@@ -8,7 +8,7 @@ import Exception.serviceException.IdNotFoundException;
 import entity.EmployeeDetails;
 import entity.TrackDetail;
 import service.ServiceImp;
-
+//testing
 public class Employee {
 	public static void main(String[] args) throws IdNotFoundException {
 		Scanner sc=new Scanner(System.in);
@@ -46,7 +46,7 @@ public class Employee {
 				condition=false;
 				break;
 			default:
-				System.out.println("invalid choice");
+				System.out.println("invalid choice!");
 			}
 		}
 	}
